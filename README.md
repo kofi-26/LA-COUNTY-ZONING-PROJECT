@@ -1,6 +1,6 @@
 # LA-COUNTY-ZONING-PROJECT
 Project description
-
+This project seeks to identify an area of land with a parcel id where spatial analysis are carried with geoprocessing tools. Analysis here include performing Environmental overlays to ensure no 
 
 1. We research and import parcel shapefile into the Arcgis pro as well as viewing its attribute table
 
